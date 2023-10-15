@@ -1,6 +1,6 @@
 export interface Player {
   readonly _id: string;
-  readonly _phoneNumber: string;
+  readonly phoneNumber: string;
   readonly email: string;
   name: string;
   ranking: string;
